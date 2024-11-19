@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../spotifycards"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/images 2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projekt"
+	}
+}
